@@ -1,7 +1,8 @@
 
-| **Relatert til**            | [oppstartsspørsmål](oppstartsspørsmål.md) |
-| --------------------------- | ----------------------------------------- |
-| **Status**                  | not started                               |
+| **Relatert til** | [oppstartsspørsmål](oppstartsspørsmål.md) |
+| ---------------- | ----------------------------------------- |
+| **Status**       | ferdig design                             |
+![skisse på oppfølg](CleanShot%202025-12-12%20at%2016.14.39@2x.jpg)
 
 ## Formål
 ## Kjappe tanker

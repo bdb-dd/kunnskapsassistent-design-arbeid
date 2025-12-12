@@ -35,7 +35,8 @@ Senke terskelen for brukeren med å komme i gang, ved å ha muligheten til å pr
 2. Spørsmålet fylles ut i chatboksen
 3. Brukeren kan deretter velge å "sende" spørsmålet som det er, eller tilpasse det til eget formål
 
-Forventes at spørsmålene byttes ut for hver gang man oppdaterer siden. Sånn sett legger det grunnlaget for en opplæring av brukeren, og hvordan man burde stille sp
+Forventes at spørsmålene byttes ut for hver gang man oppdaterer siden. Sånn sett legger det grunnlaget for en opplæring av brukeren, og hvordan man burde stille spørsmål.
+
 ## Referanser
 
 ![Designskisse](Pasted%20image%2020251212160538.png)
