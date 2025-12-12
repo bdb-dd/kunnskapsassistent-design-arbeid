@@ -1,13 +1,13 @@
-|   |   |
-|---|---|
-|**Relatert til**|Link til relaterte sider|
-|**Approver**||
-|**Contributors**||
-|**Informed**||
-|**Objective**||
-|**Due date**||
-|**Key outcomes**||
-|**Status**|NOT STARTED / IN PROGRESS / COMPLETE|
+|                  |                                      |
+| ---------------- | ------------------------------------ |
+| **Relatert til** | Link til relaterte sider             |
+| **Approver**     |                                      |
+| **Contributors** |                                      |
+| **Informed**     |                                      |
+| **Objective**    |                                      |
+| **Due date**     |                                      |
+| **Key outcomes** |                                      |
+| **Status**       | NOT STARTED / IN PROGRESS / COMPLETE |
 
 ##  Formål test
 
