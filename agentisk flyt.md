@@ -47,7 +47,7 @@ Vi har tatt utgangspunkt i flyten som bør skje når bruker gir Kunnskapsassiste
 ||||||       
 
 ##  Interaksjon og design
-![[agentisk-flyt-kunnskapsassistenten.png]]
+![[images/agentisk-flyt-kunnskapsassistenten.png]]
 
 ##  Referanser
 
