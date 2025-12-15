@@ -29,9 +29,6 @@ Hacke-uka ble arrangert for å utforske hvordan vi kan møte brukernes stadig me
 3. [https://vimeo.com/1119042862/671adccd4f?share=copy](https://vimeo.com/1119042862/671adccd4f?share=copy)
     
 
----
-
-## Innholdsfortegnelse
 
 ---
 
@@ -55,7 +52,9 @@ Prakt-eksempelet på en ambisiøs bestilling er som følger
 - Vurdere innholdet i dokumentene opp mot 8 “faktorer”
     - Forstå hva brukeren mener med et “økonomisk avvik” osv.
 
-Dagens versjon av Kunnskapsassistenten er ikke i stand til å gjennomføre den jobben. Av flere årsaker. Resultatet du får vil være noe sånt som dette
+Dagens versjon av Kunnskapsassistenten er ikke i stand til å gjennomføre den jobben. Av flere årsaker. Resultatet du får vil være noe sånt som dette:
+
+![](Pasted%20image%2020251215113638.png)
 
 I eksempelet gir Kunnskapsassistenten svar på 7 virksomheter, men det skulle vært nærmere 170-190 totalt
 
@@ -92,9 +91,10 @@ En viktig ting å merke seg er at disse “ambisiøse bestillingene” ikke er u
 
 ### Konsulentbruk
 
-Skisse av konseptet om konsulentbruk
+![Skisse av konseptet om konsulentbruk](Pasted%20image%2020251215113707.png)
 
-**Beskrivelse av konseptet**  
+
+> [!info] Beskrivelse av konseptet
 Brukeren trener modellen med egne faglige vurderinger over tid — og bygger gradvis en tillitsverdig oversikt gjennom aktiv samhandling med dokumentene.
 
 #### Konseptet forutsetter at..
@@ -122,11 +122,13 @@ Det er et ønske fra behovseierne å finne bearbeidingene/trådene som andre har
 
 ### Etatstyring
 
-**Beskrivelse av konseptet**
+> [!info] **Beskrivelse av konseptet**
+> 
+> Løsningen sammenligner et tildelingsbrev og en årsrapport ved å hente ut den relevante informasjon ordrett fra dokumentene. Som deretter lar brukeren fokusere på vurdering og kvalitetssikring av innholdet, som skal brukes til et såkalt “forberedelsesnotat”.
+> 
+> Hvert departement fyller det ut tre ganger for hver statlige virksomhet som de har ansvar for. I DFD sitt tilfelle er det 7 virksomheter, om jeg ikke husker feil.
 
-Løsningen sammenligner et tildelingsbrev og en årsrapport ved å hente ut den relevante informasjon ordrett fra dokumentene. Som deretter lar brukeren fokusere på vurdering og kvalitetssikring av innholdet, som skal brukes til et såkalt “forberedelsesnotat”.
-
-Hvert departement fyller det ut tre ganger for hver statlige virksomhet som de har ansvar for. I DFD sitt tilfelle er det 7 virksomheter, om jeg ikke husker feil.
+![Skisse av etatstyringskonseptet](Pasted%20image%2020251215113822.png)
 
 Det som står i den blå boksen under Sammenstilling på høyre side, “Rapportering på vesentlig avvik fra nasjonal strategi for info..” er da den informasjonen fra årsrapporten som er relevant fra styringsparameter 3.
 
@@ -316,76 +318,45 @@ Disse prinsippene kom fra gruppen om konsulentbruk, men oppfattes som gjeldende 
 Hacke-uka som arbeidsform ble opplevd som effektiv og engasjerende. Den ga rom for:
 
 - Tverrfaglig samarbeid
-    
 - Å utforske tilnærminger man ikke ville gjort ellers
-    
 - Behovseiere ble direkte involvert i utforskning og utvikling
-    
 - Refleksjon rundt etablerte arbeidsprosesser (som drar nytte av å bli utfordret), og hvordan teknologi kan brukes for å effektivisere dem
-    
 
 ### Hva fungerte godt med arbeidsformen
 
 - Kort vei fra idé til prototype
-    
 - Tett samarbeid mellom utviklere og behovseiere
-    
 - Mulighet for å teste og justere underveis
-    
 - Skapte engasjement og eierskap hos deltakerne
-    
 - Casene var tydelig definert i forkant, uten at de ble begrensende i praksis
-    
 - Viktig å prioritere planlegging i forkant, for det tjener man på når man først er i gang
-    
 - Nyttig med separate gjennomganger med de ulike rollene hver for seg
-    
     - At designerne får stilt sine spørsmål om hva som er forventet av dem
-        
     - Utviklerne får forberedt tilganger, og tatt teknologivalg som de trenger
-        
     - Behovseierne får tid til å reflektere kort om hva som utgjør caset
-        
 - Nyttig med tørrtrening i forkant for å forstå hva som ikke er godt nok, eller hvordan man tilrettelegger for samarbeid
-    
 - Forberedelser er viktig
-    
 - Alle deltagerne var forberedt på det som skulle gjøres
-    
 
 ### Utfordringer med arbeidsformen
 
 - Begrenset tid til å fordype seg i komplekse problemstillinger
-    
     - Siden behovseierne hadde satt av så mye tid de første to dagene fikk vi fremdeles dykket dypt ned i behovene
-        
 - Stammespråk kan skape en barriere
-    
 - “Flere kokker mer søl”-situasjon, hvor de større gruppene hadde vanskeligere for å ta beslutninger enn de små gruppene
-    
     - Ulempen med mindre grupper derimot er at man er ekstra sårbar for sykdom f. eks.
-        
         - I løpet av uka var det 4 av deltagerne som ble syke, og måtte droppe en eller to dager
-            
 - Designrollen i denne arbeidsformen handler mer om kommunikasjon. For det var ikke tid til å iterere på løsningen, og gjøre noe særlig forbedringer på brukeropplevelsen. Siden det krever mer arbeid fra utvikleren som måtte fokusere på å komme til et punkt hvor prototypen var brukbar.
-    
 
 ### Potensielle løsninger eller forbedringer
 
 - Hadde vært nyttig med forklaring på ofte brukte begreper
-    
     - Kanskje det er noe som kunne vært definert i forkant av hacke-uka?
-        
 - Det at noen deltagere “kommer og går” blir mer til støy enn det er til hjelp
-    
     - Enten så er du med, eller så er du ikke med
-        
 - Felles informasjonskanal
-    
     - Både for teamene hver for seg, men også for alle deltagerne for å si ting som “Møtes til en avslutning om 15 min” f. eks
-        
 - Samle og informere om post-its, penner, og eventuelt annet stæsj som kan brukes i arbeidet
-    
 
 ---
 
