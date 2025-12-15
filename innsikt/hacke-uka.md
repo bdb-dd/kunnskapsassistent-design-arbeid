@@ -9,7 +9,7 @@ Sagt på en annen måte – “Vi er ikke ferdige når vi lager et verktøy” (
 
 ## Kort om hacke-uka
 
-I september 2025 arrangerte vi i Kunn
+I september 2025 arrangerte vi i Kunnskapsassistent-teamet en såkalt hacke-uke, for 12 deltagere. De ble fordelt på tre ulike grupper.
 
 Etter demoene på slutten av uka ble det sagt fra den ene behovseieren til gruppa om digitaliseringstiltak:
 
