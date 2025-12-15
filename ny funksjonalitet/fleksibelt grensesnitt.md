@@ -1,9 +1,10 @@
 
-| **Relatert til** |                                      |
-| ---------------- | ------------------------------------ |
-| **Status**       | not started / in progress / complete |
+| **Relatert til** |             |
+| ---------------- | ----------- |
+| **Status**       | not started |
 ## Linker til arbeid
 
+- [Arbeidet i Figma](https://www.figma.com/design/dD3Xs8rJe1TYU5fb65VKEY/Kunnskapsassistenten?node-id=265-68391&t=4AJfWvXcDmz9BIfr-11)
 
 ## Formål
 
