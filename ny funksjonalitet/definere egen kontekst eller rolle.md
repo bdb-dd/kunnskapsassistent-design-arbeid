@@ -34,3 +34,5 @@ Vurdere å rulle ut en betafunksjon i produksjon (bak et såkalt “feature flag
 
 
 ## Referanser
+
+![eksempel fra ](Pasted%20image%2020251215064205.png)
