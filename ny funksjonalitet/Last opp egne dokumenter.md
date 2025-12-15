@@ -1,7 +1,8 @@
 
-| **Relatert til** |                                                                |
-| ---------------- | -------------------------------------------------------------- |
-| **Status**       | in progress (ferdig design, påbegynt utvikling i agentmiljøet) |
+| **Relatert til** | [Påbegynt sikkerhetsvurdering i Confluence](https://digdir.atlassian.net/wiki/spaces/SK/pages/3279585490/Vurdering+av+ny+funksjon+i+Kunnskapsassistenten?atl_p=eyJpIjoiOWU1YTg3ZjEtMzcyNC01OTk0LTViNzItMGJiY2ViMGEzODI1IiwidCI6ImZvbGxvd2luZ0ZlZWRSZWFkTW9yZSIsInNvdXJjZSI6ImVtYWlsIiwiZSI6ImNjLW5vdGlmaWNhdGlvbnNfZm9sbG93aW5nX2ZlZWQiLCJmYyI6IkZPTExPV0lORyIsImZyIjoxfQ) |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Status**       | in progress (ferdig design, påbegynt utvikling i agentmiljøet)                                                                                                                                                                                                                                                                                                             |
+
 ## Linker til arbeid
 
 - [Arbeid i Figma](https://www.figma.com/design/dD3Xs8rJe1TYU5fb65VKEY/Kunnskapsassistenten?node-id=1129-31033&p=f&t=4AJfWvXcDmz9BIfr-11)
@@ -19,38 +20,6 @@ La brukeren laste opp dokumenter som tilleggskilder til det vi får fra Kudos.
 Skriv ned stikkord som kan være relevant å utdype seinere
 
 ## Antagelser
-
-
-## Åpne spørsmål
-
-![](Pasted%20image%2020251215094350.png)
-
-| **Spørsmål**                                                                  | **Svar** | **Dato besvart** |
-| ----------------------------------------------------------------------------- | -------- | ---------------- |
-| Burde vi også tilrettelegge for at man kan legge ved dokumenter i chatboksen? |          |                  |
-
-## Omfang
-
-| **Must have:**    |     |
-| ----------------- | --- |
-| **Nice to have:** |     |
-| **Not in scope:** |     |
-
-## Interaksjon og design
-
-
-## Referanser
-
-|   |   |
-|---|---|
-|**Relaterte sider**|[https://digdir.atlassian.net/wiki/spaces/SK/pages/3279585490/Vurdering+av+ny+funksjon+i+Kunnskapsassistenten?atl_p=eyJpIjoiOWU1YTg3ZjEtMzcyNC01OTk0LTViNzItMGJiY2ViMGEzODI1IiwidCI6ImZvbGxvd2luZ0ZlZWRSZWFkTW9yZSIsInNvdXJjZSI6ImVtYWlsIiwiZSI6ImNjLW5vdGlmaWNhdGlvbnNfZm9sbG93aW5nX2ZlZWQiLCJmYyI6IkZPTExPV0lORyIsImZyIjoxfQ](https://digdir.atlassian.net/wiki/spaces/SK/pages/3279585490/Vurdering+av+ny+funksjon+i+Kunnskapsassistenten?atl_p=eyJpIjoiOWU1YTg3ZjEtMzcyNC01OTk0LTViNzItMGJiY2ViMGEzODI1IiwidCI6ImZvbGxvd2luZ0ZlZWRSZWFkTW9yZSIsInNvdXJjZSI6ImVtYWlsIiwiZSI6ImNjLW5vdGlmaWNhdGlvbnNfZm9sbG93aW5nX2ZlZWQiLCJmYyI6IkZPTExPV0lORyIsImZyIjoxfQ)|
-|**Approver**|@ approver|
-|**Contributors**|@ contributors|
-|**Informed**|@ stakeholders|
-|**Objective**|Summarize the objective in 1-2 sentences|
-|**Due date**|Type // to add a date|
-|**Key outcomes**|List expected outcomes and success metrics|
-|**Status**|not started / in progress / complete|
 
 
 ##  Stegvis tilnærming
@@ -77,6 +46,16 @@ Deling av tråder er ny funksjonalitet som vi må vurdere som en separat greie. 
 
 ## Definisjon av dokumentene som kan lastes opp
 
+|   | Offentlige dokumenter | Dokumenter som skal offentliggjøres | Dokumenter som kan gis ut ved innsynsforespørsel | Dokumenter som ikke skal/kan offentliggjøres |
+|---|-----------------------|-------------------------------------|-----------------------------------------------|-----------------------------------------------|
+| **Ingen sensitiv informasjon** | Publiserte forskningsrapporter, statistikk, lover, nettsteder, avisartikler | Utkast til høringsnotater, faglige vurderinger |                                               |                                               |
+| **Sensitiv info (interne vurderinger)** |                       |                                     |                                               | R-notater, interne strategidokumenter, dokumenter med taushetsplikt, beredskapsplaner |
+| **+ Person-opplysninger** |                       | Dokumenter med anonymiserte data    |                                               | Arbeidskontrakter, personalmapper              |
+| **+ Særlig kategori av sensitive person-opplysninger** |                       | Aggregert helsedata til statistikk   |                                               | Pasientjournaler, helserapporter               |
+| **+ Forretnings-hemmeligheter** |                       |                                     | Interne vurderinger ved anskaffelser + sladdede dokumenter fra leverandør | Tilbud anskaffelser usladdet                    |
+| **Kan gi konkurransefordeler** |                       | Anbudsgrunnlag før offentliggjøring |                                               |                                               |
+| **+ Har sperrefrist** |                       | Statsbudsjett før offentliggjøring, enkelte proposisjoner, børssensitiv informasjon |                                               |                                               |
+| **+ Sikkerhetsgradert informasjon** |                       |                                     |                                               | Dokumenter merket BEGRENSET, KONFIDENSIELT, HEMMELIG, STRENGT HEMMELIG |
 
 ##  Omfang
 
@@ -92,11 +71,18 @@ Deling av tråder er ny funksjonalitet som vi må vurdere som en separat greie. 
 
 ##  Åpne spørsmål
 
-|   |   |   |   |
-|---|---|---|---|
-|**Spørsmål**|**Kommentar**|**Svar**|**Dato besvart**|
-|Hvor viktig er det egentlig for brukeren å dele tråder i det hele tatt?<br><br>Eller sagt på en annen måte:<br><br>Hvor stort savn ville det vært for brukeren hvis vi ikke tilrettelegger for deling i det hele tatt?||e.g., We'll announce the feature with a blog post and a presentation|Type // to add a date|
-|Er det en fordel eller ulempe dersom dokumentet automatisk slettes etter 30 dager med inaktivitet?|Ref punktet under lagring i steg 2 “Opplastede dokumenter slettes automatisk etter 30/60/90 dager med inaktivitet (hvis sikkerhetskrav krever dette)”|||
+|                                                                                                                                                                                                                        |                                                                                                                                                       |                                                                      |                       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | --------------------- |
+| **Spørsmål**                                                                                                                                                                                                           | **Kommentar**                                                                                                                                         | **Svar**                                                             | **Dato besvart**      |
+| Hvor viktig er det egentlig for brukeren å dele tråder i det hele tatt?<br><br>Eller sagt på en annen måte:<br><br>Hvor stort savn ville det vært for brukeren hvis vi ikke tilrettelegger for deling i det hele tatt? |                                                                                                                                                       | e.g., We'll announce the feature with a blog post and a presentation | Type // to add a date |
+| Er det en fordel eller ulempe dersom dokumentet automatisk slettes etter 30 dager med inaktivitet?                                                                                                                     | Ref punktet under lagring i steg 2 “Opplastede dokumenter slettes automatisk etter 30/60/90 dager med inaktivitet (hvis sikkerhetskrav krever dette)” |                                                                      |                       |
+| Burde vi også tilrettelegge for at man kan legge ved dokumenter i chatboksen?                                                                                                                                          |                                                                                                                                                       |                                                                      |                       |
+![Vedlegg i chatboksen](Pasted%20image%2020251215094350.png)
+
+| **Spørsmål** | **Svar** | **Dato besvart** |
+| ------------ | -------- | ---------------- |
+|              |          |                  |
+
 
 ##  Interaksjon og design
 
