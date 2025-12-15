@@ -19,18 +19,13 @@ La brukeren laste opp dokumenter som tilleggskilder til det vi får fra Kudos.
 
 - Dette vil henge sammen med muligheten til å bruke andre kilder med åpne data (APIer som ..)
 	- OECD-kilder
-	- 
-
-### Disclaimer
-
-Deling av tråder er en funksjonalitet som vi må vurdere som en separat greie. Det krever at vi setter oss mer inn i hvordan Sharepoint-integrasjon vil henge sammen med deling av tråder.
+- Deling av tråder er funksjonalitet vi må vurdere som en separat greie.
+	- Det krever at vi setter oss mer inn i hvordan Sharepoint-integrasjon vil henge sammen med deling av tråder.
 
 ## Antagelser
 
 Å ikke kunne laste opp egne dokumenter vil oppleves som en “dealbreaker”, eller være blokkerende, for flere av brukerne våres, siden de håndterer interne dokumenter som ikke kan deles med andre.
 
-
-![](Pasted%20image%2020251215110935.png)
 ##  Stegvis tilnærming
 
 Dette er et forslag på hvordan en stegvis utvikling av det å laste opp egne dokumenter kan se ut. Hvor vi prøver å ta høyde for både sikkerhet og brukeropplevelse samtidig, og hva som kan gi verdi fra starten av.
@@ -86,9 +81,11 @@ For å ha alt på det rene måtte vi vel i så fall slettet tråden i sin helhet
 
 ##  Interaksjon og design
 
-Dette er utforsket fra et designståsted i sammenheng med
+Dette er utforsket fra et designståsted i sammenheng med [forbedring av filteret](forbedring%20av%20filteret.md).
 
-https://digdir.atlassian.net/wiki/spaces/SK/pages/3347546115
+Gitt at vi hadde gått videre med Sharepoint-integrasjon ville det vel vært naturlig å åpne native-menyen der, som man får i andre Sharepoint-sammenhenger, som i Powerpoint for eksempel:
+
+![sharepoint-eksempel](sharepoint-eksempel.webp)
 
 ##  Referanser
 
