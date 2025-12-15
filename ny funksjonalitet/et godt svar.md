@@ -10,7 +10,6 @@ Hva som utgjør et godt svar vil være avhengig av flere faktorer:
 > 
 > > Et godt svar vil tilpasset til konteksten, rollen, eller situasjonen som brukeren befinner seg i.
 
-
 > [!quote] Fra [hva utgjør et bra svar](hva%20utgjør%20et%20bra%20svar.md)
 > 
 > > En autoritativ kilde er ofte en offentlig kilde, men brukeren må vite hvordan kilden skal brukes og hva som anses som god informasjon i den. For eksempel kan et høringssvar være referert i en kilde, men det betyr ikke at høringssvaret er et godt svar på spørsmålet eller en kilde man skal stole på.
