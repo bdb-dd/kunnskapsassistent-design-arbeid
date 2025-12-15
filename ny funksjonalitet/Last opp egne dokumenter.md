@@ -9,6 +9,10 @@
 ## Formål
 
 
+## Skisser
+
+![](Pasted%20image%2020251215094330.png)
+
 ## Kjappe tanker
 
 Skriv ned stikkord som kan være relevant å utdype seinere
@@ -18,9 +22,11 @@ Skriv ned stikkord som kan være relevant å utdype seinere
 
 ## Åpne spørsmål
 
-| **Spørsmål** | **Svar** | **Dato besvart** |
-| ------------ | -------- | ---------------- |
-|              |          |                  |
+![](Pasted%20image%2020251215094350.png)
+
+| **Spørsmål**                                                                  | **Svar** | **Dato besvart** |
+| ----------------------------------------------------------------------------- | -------- | ---------------- |
+| Burde vi også tilrettelegge for at man kan legge ved dokumenter i chatboksen? |          |                  |
 
 ## Omfang
 
