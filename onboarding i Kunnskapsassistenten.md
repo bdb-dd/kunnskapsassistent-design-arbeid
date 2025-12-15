@@ -8,7 +8,7 @@ Denne oversikten gir deg en rask innføring i hvordan du bruker Kunnskapsassiste
 
 Kunnskapsassistenten hjelper deg som offentlig ansatt å gjenbruke og sammenstille informasjon fra åpne og trygge kilder. Det hjelper deg å finne informasjon, forstå komplekse temaer og få innsikt i hvordan andre har løst lignende utfordringer.
 
-Eksempler på hva Kunnskapsassistenten kan hjelpe med:
+### Eksempler på hva Kunnskapsassistenten kan hjelpe med:
 
 - **Analyser og oppsummeringer:** Kunnskapsassistenten kan oppsummere funn fra evalueringer, årsrapporter eller strategier.
 - **Spesifikke spørsmål:** Kunnskapsassistenten kan svare på spørsmål om tiltak, virkemidler, lovforslag eller andre temaer som er omtalt i dokumentene.
@@ -45,6 +45,8 @@ _Vi har for øyeblikket ikke data fra andre kilder som SSB, statsregnskapet mm.�
 
 Still et spørsmål og få svar basert på tilgjengelige kilder.
 
+<div style="padding:58.57% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1133486179?h=934996b428&amp;title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Oppfølgingsspørsmål i Kunnskapsassistenten 2025"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 #### Se egne og andres tråder:
 
 Lær av hvordan andre har brukt Kunnskapsassistenten.
@@ -55,6 +57,8 @@ Lær av hvordan andre har brukt Kunnskapsassistenten.
 - Etter virksomhet
 - Begge deler, eller ingenting
 
+<div style="padding:58.7% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1133817658?h=bbc769d77e&amp;title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Filtrering i Kunnskapsassistenten"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 #### Kilder:
 
 - Se hvilke dokumenter svaret bygger på
@@ -62,6 +66,8 @@ Lær av hvordan andre har brukt Kunnskapsassistenten.
 - Søk i utdragene
 - Klikk deg videre til dokumentene hos Kudos
 - Kildehenvisning vises i svaret (i parentes)
+
+<div style="padding:58.7% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1133486125?h=ea4047fd0b&amp;title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Kilder i Kunnskapsassistenten 2025"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## Viktig å vite
 
@@ -85,8 +91,7 @@ Når du skriver som om du snakker med en kollega – gir litt bakgrunn og åpner
 | **Utforske hvordan andre har løst lignende utfordringer** | «Gi en oversikt over hvordan ulike departementer har jobbet med tillit.» | «Jeg prøver å forstå hvordan tillit omtales i ulike stortingsmeldinger. Kan du hjelpe meg å sammenligne?»                   |
 | **Forberede deg til møter el.**                           | «Lag en punktliste med spørsmål til møte om bruk av tvang i fengsel.»    | «Jeg skal forberede et møte om bruk av tvang i fengsel. Hvilke dokumenter bør jeg lese, og hvilke spørsmål kan jeg stille?» |
 
-
-Disse spørsmålene genererer på ingen måte et perfekt første resultat. Men tenk på det: Ville du godtatt første utkast fra en kollega uten å gi tilbakemelding?
+Disse spørsmålene gir deg ikke et perfekt resultat på første forsøk, men tenk på det: Ville du godtatt første utkast fra en kollega uten å gi tilbakemelding?
 
 De beste resultatene kommer fra å iterere - justere, utvide, omformulere, forfine.
 
