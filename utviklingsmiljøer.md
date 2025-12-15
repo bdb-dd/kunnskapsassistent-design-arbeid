@@ -14,3 +14,7 @@ For utviklere, og automatiserte tester. Siste steg før produksjonssetting. Dett
 ### Sandkasse
 
 For eksperimentering, f. eks med en endring av systeminstrukser.
+
+### Admin-grensesnittet
+
+Kun for teamet, for å se en en oversikt over antall dokumenter som er importert, og analysere kilder.
