@@ -78,12 +78,13 @@ Når du skriver som om du snakker med en kollega – gir litt bakgrunn og åpner
 
 **Ha en samtale:** Mer utforskende og gir mer kontekst. Ved å gi bakgrunn og stille åpne spørsmål, hjelper du kunnskapsassistenten å forstå behovet ditt og gi bedre svar.
 
-||**Gi en ordre**|**Ha en samtale**|
-|---|---|---|
-|**Få oversikt over et tema eller en problemstilling**|«Lag en kort oppsummering av temaet digital inkludering.»|«Jeg skal lage en oversikt over digital inkludering. Hvilke hovedpunkter bør jeg ta med, og kan du foreslå struktur?»|
-|**Finne relevante kilder og utdrag fra dokumenter**|«Finn kilder om kunstig intelligens i offentlig sektor.»|«Jeg jobber med en rapport om KI i offentlig sektor. Hvilke kilder bør jeg lese, og hva er hovedpoengene i dem?»|
-|**Utforske hvordan andre har løst lignende utfordringer**|«Gi en oversikt over hvordan ulike departementer har jobbet med tillit.»|«Jeg prøver å forstå hvordan tillit omtales i ulike stortingsmeldinger. Kan du hjelpe meg å sammenligne?»|
-|**Forberede deg til møter el.**|«Lag en punktliste med spørsmål til møte om bruk av tvang i fengsel.»|«Jeg skal forberede et møte om bruk av tvang i fengsel. Hvilke dokumenter bør jeg lese, og hvilke spørsmål kan jeg stille?»|
+|                                                           | Gi en ordre                                                              | Ha en samtale                                                                                                               |
+| --------------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
+| **Få oversikt over et tema eller en problemstilling**     | «Lag en kort oppsummering av temaet digital inkludering.»                | «Jeg skal lage en oversikt over digital inkludering. Hvilke hovedpunkter bør jeg ta med, og kan du foreslå struktur?»       |
+| **Finne relevante kilder og utdrag fra dokumenter**       | «Finn kilder om kunstig intelligens i offentlig sektor.»                 | «Jeg jobber med en rapport om KI i offentlig sektor. Hvilke kilder bør jeg lese, og hva er hovedpoengene i dem?»            |
+| **Utforske hvordan andre har løst lignende utfordringer** | «Gi en oversikt over hvordan ulike departementer har jobbet med tillit.» | «Jeg prøver å forstå hvordan tillit omtales i ulike stortingsmeldinger. Kan du hjelpe meg å sammenligne?»                   |
+| **Forberede deg til møter el.**                           | «Lag en punktliste med spørsmål til møte om bruk av tvang i fengsel.»    | «Jeg skal forberede et møte om bruk av tvang i fengsel. Hvilke dokumenter bør jeg lese, og hvilke spørsmål kan jeg stille?» |
+
 
 Disse spørsmålene genererer på ingen måte et perfekt første resultat. Men tenk på det: Ville du godtatt første utkast fra en kollega uten å gi tilbakemelding?
 
@@ -97,9 +98,10 @@ Formuleringen av et spørsmål påvirker svaret du får fra Kunnskapsassistenten
 
 > Hvor mange oppdrag er det gitt distriktssenteret i tildelingsbrevene for 2022, 2023 og 2024?
 
-Les svaretBasert på informasjonen i tildelingsbrevene for Distriktssenteret, er det ikke spesifisert et eksakt antall oppdrag for 2022, 2023 og 2024 i det tilgjengelige materialet. Tildelingsbrevene nevner generelt oppdrag og mål knyttet til Distriktssenterets virksomhet, men en konkret liste over antall oppdrag for hvert år er ikke inkludert i konteksten.
-
-Hvis du ønsker en detaljert oversikt over oppdragene, kan det være nødvendig å gå gjennom de fullstendige tildelingsbrevene for hvert år. (Kilde: Tildelingsbrev Distriktssenteret 2023, 2024, 2025)
+> [!info]- Les svaret
+> Basert på informasjonen i tildelingsbrevene for Distriktssenteret, er det ikke spesifisert et eksakt antall oppdrag for 2022, 2023 og 2024 i det tilgjengelige materialet. Tildelingsbrevene nevner generelt oppdrag og mål knyttet til Distriktssenterets virksomhet, men en konkret liste over antall oppdrag for hvert år er ikke inkludert i konteksten.
+> 
+> Hvis du ønsker en detaljert oversikt over oppdragene, kan det være nødvendig å gå gjennom de fullstendige tildelingsbrevene for hvert år. (Kilde: Tildelingsbrev Distriktssenteret 2023, 2024, 2025)
 
 #### Omformulert spørsmål
 
@@ -116,49 +118,48 @@ Hvis du ønsker en detaljert oversikt over oppdragene, kan det være nødvendig 
 > 	- Distriktssenteret skal redegjøre for hvilke bærekraftmål virksomhetens arbeid har bidratt til, og omtale dette i årsrapporten for 2022. _(Kilde: Tildelingsbrev Distriktssenteret 2022 - tillegg nr. 2)_
 > 2. **Reduksjon i driftsutgifter**
 > 	- Reduksjon på 114 000 kroner i driftsutgifter knyttet til forventede budsjettgevinster fra endrede jobbreisevaner som følge av pandemien. _(Kilde: Tildelingsbrev Distriktssenteret 2022 - tillegg nr. 2)_
-
+> 
 > **Antall oppdrag:** 2  
+> 
+> #### **2023**
+> 1. **Styrket utviklingskapasitet**
+>     - Bidra til å realisere mål om styrket utviklingskapasitet og velfungerende tjenestetilbud i distriktene. _(Kilde: Tildelingsbrev Distriktssenteret 2023)_
+> 2. **Arbeidsformer og kompetanseutvikling**
+>     - Utvikle arbeidsformer som når mange kommuner, styrke kapasitet og kompetanse i distriktskommuner på utvikling, innovasjon, fornying og omstilling. _(Kilde: Tildelingsbrev Distriktssenteret 2023)_
+> 3. **Samarbeid med regionale aktører**
+>     - Spille på lag med fylkeskommunene og statsforvalterembetene for å støtte distriktskommunenes samfunnsutviklerrolle. _(Kilde: Tildelingsbrev Distriktssenteret 2023)_
+> 4. **Forum for stedsutvikling**
+>     - Vurdere deltakelse i Forum for stedsutvikling ut fra faglig relevans. _(Kilde: Tildelingsbrev Distriktssenteret 2023)_
+> 5. **Nordisk ungdomsprosjekt**
+>     - Vurdere deltakelse i referansegruppe for et nordisk ungdomsprosjekt i regi av Nordregio. _(Kilde: Tildelingsbrev Distriktssenteret 2023)_
+> 6. **Konsulentbruk**
+>     - Rapportere om konsulentbruk, inkludert kjøp av kommunikasjonstjenester, og opplyse om totalbeløp for slike kjøp. _(Kilde: Tildelingsbrev Distriktssenteret 2023)_
+> 
+> **Antall oppdrag:** 6  
+> 
+> #### **2024**
+> 
+> 1. **Brukerundersøkelser**
+>     - Analysere andel og type brukere som benytter Distriktssenterets tilbud, samt vurdere effekten på innovasjons- og utviklingskultur. _(Kilde: Tildelingsbrev Distriktssenteret 2024)_
+> 2. **Samarbeid med regionale aktører**
+>     - Analysere omfang og type samarbeid med regionale aktører. _(Kilde: Tildelingsbrev Distriktssenteret 2024)_
+> 3. **Forum for stedsutvikling**
+>     - Vurdere deltakelse i Forum for stedsutvikling ut fra faglig relevans. _(Kilde: Tildelingsbrev Distriktssenteret 2024)_
+> 
+> **Antall oppdrag:** 3  
+> 
+> ### **Oppsummering**
+> 
+> - **2022:** 2 oppdrag
+> - **2023:** 6 oppdrag
+> - **2024:** 3 oppdrag
+> 
+> **Totalt antall oppdrag:** 11  
+> 
+> _(Kilder: Tildelingsbrev Distriktssenteret 2022, 2023 og 2024)_  
 
-#### **2023**
-
-1. **Styrket utviklingskapasitet**
-    - Bidra til å realisere mål om styrket utviklingskapasitet og velfungerende tjenestetilbud i distriktene. _(Kilde: Tildelingsbrev Distriktssenteret 2023)_
-2. **Arbeidsformer og kompetanseutvikling**
-    - Utvikle arbeidsformer som når mange kommuner, styrke kapasitet og kompetanse i distriktskommuner på utvikling, innovasjon, fornying og omstilling. _(Kilde: Tildelingsbrev Distriktssenteret 2023)_
-3. **Samarbeid med regionale aktører**
-    - Spille på lag med fylkeskommunene og statsforvalterembetene for å støtte distriktskommunenes samfunnsutviklerrolle. _(Kilde: Tildelingsbrev Distriktssenteret 2023)_
-4. **Forum for stedsutvikling**
-    - Vurdere deltakelse i Forum for stedsutvikling ut fra faglig relevans. _(Kilde: Tildelingsbrev Distriktssenteret 2023)_
-5. **Nordisk ungdomsprosjekt**
-    - Vurdere deltakelse i referansegruppe for et nordisk ungdomsprosjekt i regi av Nordregio. _(Kilde: Tildelingsbrev Distriktssenteret 2023)_
-6. **Konsulentbruk**
-    - Rapportere om konsulentbruk, inkludert kjøp av kommunikasjonstjenester, og opplyse om totalbeløp for slike kjøp. _(Kilde: Tildelingsbrev Distriktssenteret 2023)_
-
-**Antall oppdrag:** 6  
-
-#### **2024**
-
-1. **Brukerundersøkelser**
-    - Analysere andel og type brukere som benytter Distriktssenterets tilbud, samt vurdere effekten på innovasjons- og utviklingskultur. _(Kilde: Tildelingsbrev Distriktssenteret 2024)_
-2. **Samarbeid med regionale aktører**
-    - Analysere omfang og type samarbeid med regionale aktører. _(Kilde: Tildelingsbrev Distriktssenteret 2024)_
-3. **Forum for stedsutvikling**
-    - Vurdere deltakelse i Forum for stedsutvikling ut fra faglig relevans. _(Kilde: Tildelingsbrev Distriktssenteret 2024)_
-
-**Antall oppdrag:** 3  
-
-### **Oppsummering**
-
-- **2022:** 2 oppdrag
-- **2023:** 6 oppdrag
-- **2024:** 3 oppdrag
-
-**Totalt antall oppdrag:** 11  
-
-_(Kilder: Tildelingsbrev Distriktssenteret 2022, 2023 og 2024)_  
 
 **Tips:** Tenk at Kunnskapsassistenten leter først og fremst etter informasjon som finnes i kildene. Her leter den etter et spesifisert antall i tildelingsbrevene og forstår ikke at den selv må lete etter oppdragene og deretter se hvor mange oppdrag som finnes.
-
 
 ### Hvordan stille gode spørsmål
 
