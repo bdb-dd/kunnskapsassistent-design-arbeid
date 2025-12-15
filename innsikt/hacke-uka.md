@@ -94,7 +94,7 @@ En viktig ting å merke seg er at disse “ambisiøse bestillingene” ikke er u
 ![Skisse av konseptet om konsulentbruk](Pasted%20image%2020251215113707.png)
 
 
-> [!info] Beskrivelse av konseptet
+> [!important] Beskrivelse av konseptet
 Brukeren trener modellen med egne faglige vurderinger over tid — og bygger gradvis en tillitsverdig oversikt gjennom aktiv samhandling med dokumentene.
 
 #### Konseptet forutsetter at..
@@ -194,7 +194,10 @@ Det som står i den blå boksen under Sammenstilling på høyre side, “Rapport
 - Laste opp flere dokumenter
 - Be om manglende informasjon fra virksomheter
 
-Ambisjonen her var også at oversikten blir en slags database som kan gjenbrukes til samme forespørsler. Man kan også tenke seg at innholdet oppdateres en gang i året (eller ved gitte intervaller), og at brukeren informeres om oppdateringer på epost f. eks.
+
+> [!info] Til info
+> 
+> Ambisjonen her var også at oversikten blir en slags database som kan gjenbrukes til samme forespørsler. Man kan også tenke seg at innholdet oppdateres en gang i året (eller ved gitte intervaller), og at brukeren informeres om oppdateringer på epost f. eks.
 
 > **Nevnt av behovseier:**  
 > _Vi har behov for styringsinformasjon, og den må være strukturert på en viss måte (finansiering, kobling til digitaliseringsstrategien osv.)_
@@ -208,7 +211,9 @@ Ambisjonen her var også at oversikten blir en slags database som kan gjenbrukes
 
 #### Verdien av konseptet
 
-**Tre personer jobbet i to uker for å samle informasjon** om digitaliseringsprosjektene til virksomhetene. Og må fremdeles gjøre det manuelle arbeidet med å sende det tilbake til kvalitetssjekk til virksomhetene for å vurdere om det stemmer.
+> [!important] Verdt å merke seg
+> 
+> **Tre personer jobbet i to uker for å samle informasjon** om digitaliseringsprosjektene til virksomhetene. Og må fremdeles gjøre det manuelle arbeidet med å sende det tilbake til kvalitetssjekk til virksomhetene for å vurdere om det stemmer.
 
 **Sagt om kvalitetssikring fra en av interessentene:**
 
@@ -221,7 +226,7 @@ Ambisjonen her var også at oversikten blir en slags database som kan gjenbrukes
 | Forhåndsdefinerte forslag brukeren kan gjøre                                     | Digitaliseringstiltak kan ha ulike navn i ulike dokumenter                                                                                           |
 | Kan knekke koden på det å knytte sammen data fra forskjellige kilder             | KI kan gi falske positiver (som å tolke et tiltak som har endret navn f. eks som to ulike tiltak, eller at den finner på nye tiltak som ikke finnes) |
 | Tanken om en dedikert agent for kvalitetssikring                                 | Vanskelig å kvalitetssikre automatisk                                                                                                                |
-
+![Trappetrinnsmodellen](Trappetrinnsmodellen.png)
 - Trappetrinnsmodell for å skaffe en fullstendig oversikt over digitaliseringstiltak i offentlig sektor
     - Søke i Kudos-databasen
     - Supplere informasjon fra virksomhetens nettside
@@ -230,13 +235,19 @@ Ambisjonen her var også at oversikten blir en slags database som kan gjenbrukes
 
 Det legges vekt på dette med å inkludere virksomhetene som står bak digitaliseringsprosjektene. Hvor f. eks man viser til ferdigutfylt informasjon som virksomheten deretter kan selv redigere, for å nyansere informasjonen i større grad.
 
-En oppgave for en agent som er dedikert til kvalitetssikring kunne vært å oppdatere et tiltak dersom navnet endrer seg over tid, i og med at digitaliseringstiltak kan ha ulike navn i ulike dokumenter.
+> [!info] Agentrolle
+> En oppgave for en agent som er dedikert til kvalitetssikring kunne vært å oppdatere et tiltak dersom navnet endrer seg over tid, i og med at digitaliseringstiltak kan ha ulike navn i ulike dokumenter.
 
-Strukturert tabellvisning over digitaliseringstiltak
+**Strukturert tabellvisning over digitaliseringstiltak:**
 
-Forhåndsdefinerte forslag brukeren kan benytte seg av
+![Strukturert tabellvisning over digitaliseringstiltak](Pasted%20image%2020251215114633.png)
 
-Til en kvalitetssikrende agent kan man velge en språkmodell som er sterk på tallforståelse. I tillegg til å gi agenten tilgang på et programmeringsspråk eller kalkulator som verktøy.
+**Forhåndsdefinerte forslag brukeren kan benytte seg av:**
+
+![Forhåndsdefinerte forslag brukeren kan benytte seg av](Pasted%20image%2020251215114658.png)
+
+> [!NOTE] Framtidig mulighet
+> Til en kvalitetssikrende agent kan man velge en språkmodell som er sterk på tallforståelse. I tillegg til å gi agenten tilgang på et programmeringsspråk eller kalkulator som verktøy.
 
 ---
 
@@ -314,7 +325,7 @@ Disse prinsippene kom fra gruppen om konsulentbruk, men oppfattes som gjeldende 
 - Utforske hvordan løsningen kan skaleres og tilpasses andre områder og behov
 - Bidra til rapporten fra Oppdrag 1-gjengen med konkrete anbefalinger og erfaringer
 - Hacke-uka har vist at det er mulig å utvikle kraftfulle, fleksible og læringsfremmende KI-løsninger på kort tid – og at det gir verdi både for fagmiljøene og for offentlig sektor som helhet.
-- [Relatert til Styringsassistenten](https://digdir.atlassian.net/wiki/spaces/SK/pages/3559981058/Hva+vi+l+rte+fra+hacke-uka+september+2025#Etatstyring): Snu på perspektivet og la underliggende etater bruke løsningen, ikke departementet. Vi laster inn dokumentene og sjekker hvordan vi scorer og så kan vi tilpasse teksten i årsrapporten.
+- Relatert til Styringsassistenten: Snu på perspektivet og la underliggende etater bruke løsningen, ikke departementet. Vi laster inn dokumentene og sjekker hvordan vi scorer og så kan vi tilpasse teksten i årsrapporten.
     - Hva hvis begge virksomheter var i samme løsning og kunne samhandle over tid med styring.
     - Legge effektmåling inn i styringsassistenten?
         - Måler mer konkrete ting i dag og ikke faktisk impact.
@@ -370,4 +381,5 @@ Hacke-uka som arbeidsform ble opplevd som effektiv og engasjerende. Den ga rom f
 
 ---
 
-_Hacke-uka ble oppsummert av Sigrid Nafstad (DIO) og Simen Strøm Braaten (Digdir)._
+> [!NOTE] Til info
+> Hacke-uka ble oppsummert av Sigrid Nafstad (DIO) og Simen Strøm Braaten (Digdir).
