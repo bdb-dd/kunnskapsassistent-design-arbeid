@@ -9,7 +9,7 @@
 
 ## Formål
 
-Tilrettelegge for at filteret 
+Tilrettelegge for at filteret kan skalere, med f. eks valg av år eller departement, uten at det skaper utfordringer for brukeropplevelsen på ulike skjermstørrelser. Dette vil også være mer tilnærmet likt som filteret i Kudos-databasen, som brukerne våre er kjent med fra før.
 
 ## Bakgrunnen
 
@@ -35,33 +35,4 @@ Når vi får filtrering på årstall på plass vil vi møte på et annet problem
 ## Bør utforskes videre
 
 - Noen brukere har behov for å skille departement og virksomhet i større grad, eller velge alle virksomheter innen et departement
-    
     - Kan være relevant å filtrere på departement
-
-
-
-
-## Kjappe tanker
-
-Skriv ned stikkord som kan være relevant å utdype seinere
-
-## Antagelser
-
-
-## Åpne spørsmål
-
-| **Spørsmål** | **Svar** | **Dato besvart** |
-| ------------ | -------- | ---------------- |
-|              |          |                  |
-
-## Omfang
-
-| **Must have:**    |     |
-| ----------------- | --- |
-| **Nice to have:** |     |
-| **Not in scope:** |     |
-
-## Interaksjon og design
-
-
-## Referanser

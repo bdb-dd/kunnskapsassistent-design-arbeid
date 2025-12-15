@@ -4,6 +4,7 @@
 | **Status**       | Ferdig utkast fra design, ikke startet med utvikling |
 ## Linker til arbeid
 - [Skisser i figma](https://www.figma.com/design/dD3Xs8rJe1TYU5fb65VKEY/Kunnskapsassistenten?node-id=837-25049)
+- [Utforskende arbeid i Figma](https://www.figma.com/design/dD3Xs8rJe1TYU5fb65VKEY/Kunnskapsassistenten?node-id=645-37319)
 
 ## Skisse
 
