@@ -4,9 +4,9 @@ aliases:
 ---
 
 
-| **Relatert til** |                                      |
-| ---------------- | ------------------------------------ |
-| **Status**       | not started / in progress / complete |
+| **Relatert til** |             |
+| ---------------- | ----------- |
+| **Status**       | not started |
 ## Linker til arbeid
 
 ## Formål
@@ -15,11 +15,11 @@ I blant vil vi teste ny funksjonalitet på en mindre gruppe brukere, og en måte
 
 Når vi da lager ny funksjonalitet kan vi vurdere å “legge det bak et feature flag”, som det kalles. Som betyr at vi kun synliggjør funksjonaliteten, eller endringene, til de som bevisst har skrudd på (og med andre ord sagt ja) til eksperimentell funksjonalitet.
 
-For eksempel kunne dette vært relevant for de som vil definere en rollebeskrivelse [definere egen kontekst eller rolle](definere%20egen%20kontekst%20eller%20rolle.mdIrollebeskrivelse), for å tydeliggjøre konteksten sin.
+For eksempel kunne dette vært relevant for de som vil [definere en rollebeskrivelse](definere%20egen%20kontekst%20eller%20rolle.md), for å tydeliggjøre konteksten sin.
 
 ## Kjappe tanker
 
-Skriv ned stikkord som kan være relevant å utdype seinere
+
 
 ## Antagelser
 

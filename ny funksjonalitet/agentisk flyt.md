@@ -1,13 +1,7 @@
-|                  |                                      |
-| ---------------- | ------------------------------------ |
-| **Relatert til** | Link til relaterte sider             |
-| **Approver**     |                                      |
-| **Contributors** |                                      |
-| **Informed**     |                                      |
-| **Objective**    |                                      |
-| **Due date**     |                                      |
-| **Key outcomes** |                                      |
-| **Status**       | NOT STARTED / IN PROGRESS / COMPLETE |
+
+| **Relatert til** | Link til relaterte sider |
+| ---------------- | ------------------------ |
+| **Status**       | In progress              |
 
 ##  Formål test
 
@@ -17,7 +11,7 @@ _Målet er å gjøre kunnskapsarbeid enklere, tryggere og mer effektivt – uten
 
 ## Kjappe tanker
 
-Underveis i prosjektet og gjennom Hackathon har vi lært en god del om samspillet mellom mennesker og teknologi. Vi vet fra innsikt om “sparringspartneren” at assistenten må veilede mer gjennom dialog, for å blant annet heve kompetansen til brukeren, men også ivareta læringsprosessen til menneske. Når vi går over til Agentic RAG har vi mulighet til å bruke agenter mer aktivt i kunnskapsprossessen vår.
+Underveis i prosjektet og gjennom hacke-uka har vi lært en god del om samspillet mellom mennesker og teknologi. Vi vet fra innsikt om “sparringspartneren” at assistenten må veilede mer gjennom dialog, for å blant annet heve kompetansen til brukeren, men også ivareta læringsprosessen til menneske. Når vi går over til Agentic RAG har vi mulighet til å bruke agenter mer aktivt i kunnskapsprossessen vår.
 
 ##  Antagelser
 
@@ -25,10 +19,10 @@ Vi har tatt utgangspunkt i flyten som bør skje når bruker gir Kunnskapsassiste
 
 ##  Åpne spørsmål
 
-|   |   |   |
-|---|---|---|
-|**Question**|**Answer**|**Date Answered**|
-||||
+
+| **Question** | **Answer** | **Date Answered** |
+| ------------ | ---------- | ----------------- |
+|              |            |                   |
 
 ##  Omfanget
 
@@ -40,11 +34,9 @@ Vi har tatt utgangspunkt i flyten som bør skje når bruker gir Kunnskapsassiste
 
 ##  Krav eller spesifikasjoner for funksjonaliteten
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|**Requirement**|**User Story**|**Importance**|**Jira Issue**|**Notes**|
-|||HIGH|||
-||||||       
+| **Requirement** | **User Story** | **Importance** | **Jira Issue** | **Notes** |         |
+| --------------- | -------------- | -------------- | -------------- | --------- | ------- |
+|                 |                |                |                |           |         |
 
 ##  Interaksjon og design
 ![Oversikt over agentisk flyt i Kunnskapsassistenten](images/agentisk-flyt-kunnskapsassistenten.png)
