@@ -109,7 +109,7 @@ Brukeren trener modellen med egne faglige vurderinger over tid — og bygger gra
 - Eksponere brukeren for grunnlaget for vurderingene underveis
 
 > [!info] Verdt å merke seg
-> Det er et ønske fra behovseierne å finne bearbeidingene/trådene som andre har gjort, så de kan bruke det arbeidet seinere. Med tanke på sikkerhet, personvern og lagring vil dette være relevant for deling av tråder, som vi har diskutert rundt det å [laste opp egne dokumenter](Last%20opp%20egne%20dokumenter.md).
+> Det er et ønske fra behovseierne å finne bearbeidingene/trådene som andre har gjort, så de kan bruke det arbeidet seinere. Med tanke på sikkerhet, personvern og lagring vil dette være relevant for deling av tråder, som vi har diskutert rundt det å [laste opp egne dokumenter](last%20opp%20egne%20dokumenter.md).
 
 | **Hva fungerte bra?**                                                                                  | **Hva var utfordringene?**                                                                                           |
 | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |

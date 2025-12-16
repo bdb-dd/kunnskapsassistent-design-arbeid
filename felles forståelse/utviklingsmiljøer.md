@@ -18,3 +18,7 @@ For eksperimentering, f. eks med en endring av systeminstrukser.
 ### [Admin-grensesnittet](https://admin.kunnskap.digdir.cloud/wanting-righty-carol-clasp)
 
 Kun for teamet, for å se en en oversikt over antall dokumenter som er importert, og analysere kilder.
+
+### [Agentmiljøet](https://test.kunnskapsassistenten.kamal.digdir.cloud/)
+
+For utforsking av agentisk RAG
