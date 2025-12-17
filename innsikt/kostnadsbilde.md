@@ -97,13 +97,10 @@ Vi har fargekodet summene basert på et “educated guess”. Ut fra hva som vir
 - Sannsynlig (gul)
     - Kanskje litt for lite eller litt for mye
 - Veldig sannsynlig (grønn)
-    
 
-|   |   |   |   |   |   |
-|---|---|---|---|---|---|
-|Ansatte med lisens|**20 %**|**40 %**|**60 %**|**80 %**|**100 %**|
-|én tjeneste i året (Copilot)|5 857 632 kr|11 715 264 kr|17 572 896 kr|23 430 528 kr|29 288 160 kr|
-|To tjenester i året (Copilot + ChatGPT)|10 295 232 kr|23 430 528 kr|35 145 792 kr|46 861 056 kr|58 576 320 kr|
+![kostnadsbilde-fargekodet](kostnadsbilde-fargekodet.webp)
+
+Da ser vi at det er sannsynlig at Departementfellesskapet bruker et sted mellom 10-23,5 millioner kroner på lisenser til kommersielle KI-tjenester på en årlig basis.
 
 ## Hva vil Kunnskapsassistenten koste?
 
